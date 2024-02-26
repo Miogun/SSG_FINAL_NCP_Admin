@@ -15,7 +15,8 @@
 
 ## NCP Admin으로 3 Tier 구성 및 NCP DB 연동 테스트 : db-root 계정 권한 문제
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b6e2230-a696-4d89-8ed2-49e57082f5f1/ca19e7c6-339e-4ee5-8091-79fb99125e2a/Untitled.png)
+![Untitled (3)](https://github.com/Miogun/SSG_FINAL_NCP_Admin/assets/75124706/1a890b92-ad79-4f11-b82d-0096a1d39fec)
+
 - NCP에서는 db-root 계정으로 관리자 계정을 생성하면 권한 문제로 Schema가 자동으로 생성이 안됩니다.
 
 ![Untitled (1)](https://github.com/Miogun/SSG_FINAL_NCP_Admin/assets/75124706/9629a3bf-89bf-4e24-9c34-f97b1ff52a8d)
@@ -29,12 +30,13 @@
 
 
 
-## NCP db-root 계정 권한 문제 : AWS RDS로 대
+## NCP db-root 계정 권한 문제 : NCP DB 서버를 AWS RDS로 대체합니다.
 
 AWS는 관리자 계정을 생성하면 Schema가 자동으로 생성됩니다.
 
 AWS ADMIN 계정 권한
-![Untitled (2)](https://github.com/Miogun/SSG_FINAL_NCP_Admin/assets/75124706/a1d6a796-680a-4116-9a81-a6c92d5aec19)
+![Untitled (2)](https://github.com/Miogun/SSG_FINAL_NCP_Admin/assets/75124706/3d8fda54-4a8b-4b47-91c5-94410554df01)
+
 
 <br>
 
