@@ -16,7 +16,7 @@
 ## NCP Admin으로 3 Tier 구성 및 NCP DB 연동 테스트 : db-root 계정 권한 문제
 
 - NCP - BE FLASK —host=0.0.0.0 확인 결과 : 관리자 계정 생성하면 Schema 생성 권한이 없어서 자동으로 Schema 생성 안되는 문제
-
+<br>
 ![Untitled (3)](https://github.com/Miogun/SSG_FINAL_NCP_Admin/assets/75124706/ddef5623-d79b-489b-afa6-3fb49f1127c5)
 
 - NCP에서는 db-root 계정으로 관리자 계정을 생성하면 권한 문제로 Schema가 자동으로 생성이 안됩니다.
@@ -28,7 +28,7 @@
 ## NCP db-root 계정 권한 문제 : NCP DB 서버를 AWS RDS로 대체합니다.
 
 AWS는 관리자 계정을 생성하면 Schema가 자동으로 생성됩니다.
-
+<br>
 AWS ADMIN 계정 권한
 ![Untitled (2)](https://github.com/Miogun/SSG_FINAL_NCP_Admin/assets/75124706/3d8fda54-4a8b-4b47-91c5-94410554df01)
 
@@ -36,10 +36,10 @@ AWS ADMIN 계정 권한
 <br>
 
 NCP DB 서버를 삭제하고 AWS RDS 서버 1대로 아키텍처를 구성합니다.
-
+<br>
 ![Untitled (4)](https://github.com/Miogun/SSG_FINAL_NCP_Admin/assets/75124706/8ead89b7-c523-4c81-80d8-2455a72866b5)
 <NCP 3 Tier>
-
+<br>
 <img src="https://github.com/kksung/ssg_CloudDunk/assets/110016279/4c53d03d-df29-412a-bc19-43e4090d36c0" width=870 height=550>
 <NCP Admin으로 프론트 엔드와 백 엔드 구성 및 AWS RDS 연동>
 
