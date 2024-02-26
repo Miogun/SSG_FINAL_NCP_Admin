@@ -19,7 +19,8 @@
 
 <br>
 - NCP - BE FLASK —host=0.0.0.0 확인 결과 : 관리자 계정 생성하면 Schema 생성 권한이 없어서 자동으로 Schema 생성 안되는 문제
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/8b6e2230-a696-4d89-8ed2-49e57082f5f1/a9626946-aebf-460d-811c-124c140ac056/Untitled.png)
+![Untitled (3)](https://github.com/Miogun/SSG_FINAL_NCP_Admin/assets/75124706/ddef5623-d79b-489b-afa6-3fb49f1127c5)
+
 <br>
 
 
