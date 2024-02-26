@@ -38,8 +38,8 @@ NCP DB 서버를 삭제하고 AWS RDS 서버 1대로 아키텍처를 구성합�
 
 ![Untitled (4)](https://github.com/Miogun/SSG_FINAL_NCP_Admin/assets/75124706/8ead89b7-c523-4c81-80d8-2455a72866b5) <br>
 <NCP 3 Tier> <br>
-<br>
-<img src="https://github.com/kksung/ssg_CloudDunk/assets/110016279/4c53d03d-df29-412a-bc19-43e4090d36c0" width=870 height=550>
+
+<img src="https://github.com/kksung/ssg_CloudDunk/assets/110016279/4c53d03d-df29-412a-bc19-43e4090d36c0" width=870 height=550> <br>
 <NCP Admin으로 프론트 엔드와 백 엔드 구성 및 AWS RDS 연동>
 
-<br>
+
